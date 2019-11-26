@@ -32,7 +32,7 @@ TarsGo服务需要在指定目录下创建和构建, 因此我们需要将项目
 ```sh
 mkdir -p $GOPATH/src/LifeService
 cd $GOPATH/src/LifeService
-git clone https://github.com/TarsDemo/Tars-MiniProgramm-Service-ClubActivityServer.git ClubActivityServer
+git clone -b release https://github.com/TarsDemo/Tars-MiniProgramm-Service-ClubActivityServer.git ClubActivityServer
 ```
 进入服务目录, 生成服务发布包
 ```sh
