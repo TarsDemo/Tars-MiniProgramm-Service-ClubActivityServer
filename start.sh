@@ -1,3 +1,3 @@
 #!/bin/bash
 make
-./ClubActivityServer --config=ClubActivityServer.conf
+./build/ClubActivityServer --config=config.conf
