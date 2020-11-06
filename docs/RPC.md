@@ -1,5 +1,6 @@
 # 社团活动服务RPC接口
 以下类型在tars协议文件中定义，参照[tars数据类型定义文档](#)
+
 ```
 ClubInfo          社团信息
 ActivityInfo      活动信息
