@@ -1,4 +1,6 @@
 # ClubActivityServer
+[English Version](README_en.md)
+
 大学生活服务平台社团活动管理后端服务，提供社团的创建申请管理和活动的创建报名管理的功能。
 
 服务接口可查看[接口文档](docs/RPC.md)。
